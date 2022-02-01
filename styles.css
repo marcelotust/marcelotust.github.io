@@ -8,6 +8,7 @@ html, body {
     background-size:100% 100%;
     margin: 0;
     padding: 0;
+    font-family: "Inter";
 }
 
 .content {
@@ -73,14 +74,14 @@ h1 {
 
 h2 {
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 500;
     color: #66bbdd;
     margin-top: 0px;
     margin-bottom: 18px;
 }
 
 ul {
-    font-size: 1rem;
+    font-size: 12px;
     font-weight: 400;
     color: #ffffff;
     margin: 0px;
